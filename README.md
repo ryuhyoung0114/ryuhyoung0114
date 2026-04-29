@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ryuhyoung0114/ryuhyoung0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 안녕하세요, 웹디자이너 & 웹퍼블리셔 류혜영입니다.
+## 안녕하세요👋 웹디자이너 & 웹퍼블리셔 류혜영입니다.
 
 현재 계정은 포트폴리오용으로 새롭게 운영 중이며  
 아래는 이전 GitHub 계정 활동 기록입니다.
