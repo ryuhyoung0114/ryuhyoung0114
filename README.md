@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 
 현재 계정은 포트폴리오용으로 새롭게 운영 중이며  
 아래는 이전 GitHub 계정 활동 기록입니다.
-
-## 📊 Previous Contributions
-![contributions](이미지파일경로)<img width="911" height="221" alt="github" src="https://github.com/user-attachments/assets/31726df3-21f1-4135-b9bf-fead6842bb3b" />
+<img width="911" height="221" alt="github" src="https://github.com/user-attachments/assets/31726df3-21f1-4135-b9bf-fead6842bb3b" />
 
